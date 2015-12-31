@@ -1,4 +1,4 @@
-# Pre-work - *TipCalculator*
+# Pre-work - *Tiptobot*
 
 **Tiptobot** is a tip calculator application for iOS.
 
